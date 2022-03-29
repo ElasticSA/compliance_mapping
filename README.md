@@ -1,6 +1,6 @@
 # compliance_mapping
 
-Mapping of OOTB content from integrations to common compliance controls
+Mapping of Elastic OOTB content from integrations to common compliance controls
 
 # Current Coverage
 * ICS 500-27 (https://www.dni.gov/files/documents/FOIA/DF-2016-00213.pdf)
