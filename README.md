@@ -7,7 +7,8 @@ Mapping of Elastic OOTB content from integrations to common compliance controls
 * NIST 800-53 rev 5 (https://doi.org/10.6028/NIST.SP.800-53r5)
 
 # Integrations Details
-* System Integration v 1.6.4
+* System Integration v 1.6.4 (ICS, NIST)
+* Zeek Logs v 1.6.0 (NIST)
 
 # Notes
 * Captured in XMind
@@ -16,4 +17,4 @@ Mapping of Elastic OOTB content from integrations to common compliance controls
 
 <br>
 <br>
-Update: 2022 Mar 29<br>
+Update: 2022 Mar 30<br>
